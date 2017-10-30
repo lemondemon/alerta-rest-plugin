@@ -3,7 +3,7 @@
 
 1. Install plugin inside docker container or by adding above command in dockerfile.
 ```python
-pip install git+https://github.com/lemondemon/alerta-rest-plugin/archive/1.00.zip
+pip install git+https://github.com/lemondemon/alerta-rest-plugin
 ```
 2. Enable plugin in `/etc/alertad.conf`.
 
